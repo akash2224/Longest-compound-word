@@ -41,15 +41,3 @@ The algorithm for the solution :
 > 
 > Step 5. Return the longest and second_longest words
 
-## Results:
-
-
-1) Output  for File: Input_01.txt
-
-
-![Output  for File: Input_01.txt](/Output_1.png)
-
-2) Output  for File: Input_02.txt
-
-
-![Output  for File: Input_02.txt](/Output_2.png)
